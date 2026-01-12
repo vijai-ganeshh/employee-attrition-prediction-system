@@ -18,3 +18,5 @@ IBM HR Analytics Employee Attrition & Performance (Kaggle)
 - Streamlit
 
 ## Run the App
+
+##You can view the project live the url is on the right side 
